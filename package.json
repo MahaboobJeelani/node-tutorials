@@ -1,12 +1,13 @@
 {
   "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
     "nodemon": "^3.1.2"
   },
   "name": "nodefile2",
   "version": "1.0.0",
   "description": "Node classes",
   "main": "01-Import.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
